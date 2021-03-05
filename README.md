@@ -1,1 +1,0 @@
-# mfw-bootstrap-template
